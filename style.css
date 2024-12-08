@@ -1,0 +1,33 @@
+body,
+html{
+	width: auto;
+	height: auto;
+	font-family: 'montserrat';
+	background: url(bg4.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.top{
+	height: 200px;
+}
+
+.text-uppercase{
+	font-size: 3em;
+	color:   #FA6775; 
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 500px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color: #FA6775;
+	border-color: #FA6775;
+}
+btn-primary:hover{
+	background-color:  #ffffff;
+}
+
+
+}
+
